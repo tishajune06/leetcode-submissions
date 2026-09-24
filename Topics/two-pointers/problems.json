@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T06:21:09.323Z",
+  "updatedAt": "2026-09-24T06:21:26.623Z",
   "problems": [
     {
       "frontendId": "26",
@@ -63,6 +63,26 @@
           "path": "0234-palindrome-linked-list/0234-palindrome-linked-list.java",
           "sha": "8a98d23e2d45051fc682e7941d6c58226986fe69",
           "lastSyncedAt": "2026-09-24T06:19:36.851Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "283",
+      "title": "Move Zeroes",
+      "slug": "move-zeroes",
+      "problemName": "0283-move-zeroes",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/move-zeroes/",
+      "folderPath": "0283-move-zeroes/",
+      "readmePath": "0283-move-zeroes/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0283-move-zeroes.java",
+          "path": "0283-move-zeroes/0283-move-zeroes.java",
+          "sha": "12c2c529cd366d8b51de35f39b4f1371c28c4696",
+          "lastSyncedAt": "2026-09-24T06:21:26.623Z"
         }
       ]
     },
