@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T06:21:33.019Z",
+  "updatedAt": "2026-09-24T06:22:02.177Z",
   "problems": [
     {
       "frontendId": "26",
@@ -103,6 +103,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "acf0c237cfd3d05df8192b9fbaf541109b755890",
           "lastSyncedAt": "2026-09-24T06:20:58.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3392",
+      "title": "Count Subarrays of Length Three With a Condition",
+      "slug": "count-subarrays-of-length-three-with-a-condition",
+      "problemName": "3392-count-subarrays-of-length-three-with-a-condition",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/",
+      "folderPath": "3392-count-subarrays-of-length-three-with-a-condition/",
+      "readmePath": "3392-count-subarrays-of-length-three-with-a-condition/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3392-count-subarrays-of-length-three-with-a-condition.java",
+          "path": "3392-count-subarrays-of-length-three-with-a-condition/3392-count-subarrays-of-length-three-with-a-condition.java",
+          "sha": "45fca7a84a21a100e0336a2e23da983712703588",
+          "lastSyncedAt": "2026-09-24T06:22:02.177Z"
         }
       ]
     }
