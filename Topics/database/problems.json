@@ -4,7 +4,7 @@
     "slug": "database",
     "name": "Database"
   },
-  "updatedAt": "2026-09-24T06:20:52.728Z",
+  "updatedAt": "2026-09-24T06:21:50.061Z",
   "problems": [
     {
       "frontendId": "175",
@@ -23,6 +23,26 @@
           "path": "0175-combine-two-tables/0175-combine-two-tables.sql",
           "sha": "38beac428e05c06aa4f46a480069e280c9398acc",
           "lastSyncedAt": "2026-09-24T06:20:28.671Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "176",
+      "title": "Second Highest Salary",
+      "slug": "second-highest-salary",
+      "problemName": "0176-second-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/second-highest-salary/",
+      "folderPath": "0176-second-highest-salary/",
+      "readmePath": "0176-second-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0176-second-highest-salary.sql",
+          "path": "0176-second-highest-salary/0176-second-highest-salary.sql",
+          "sha": "17ed5d992ee8e043c31e9d358d732e8c9539d078",
+          "lastSyncedAt": "2026-09-24T06:21:50.061Z"
         }
       ]
     },
