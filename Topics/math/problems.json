@@ -4,8 +4,28 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-24T06:20:06.004Z",
+  "updatedAt": "2026-09-24T06:21:55.085Z",
   "problems": [
+    {
+      "frontendId": "2165",
+      "title": "Smallest Value of the Rearranged Number",
+      "slug": "smallest-value-of-the-rearranged-number",
+      "problemName": "2165-smallest-value-of-the-rearranged-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/smallest-value-of-the-rearranged-number/",
+      "folderPath": "2165-smallest-value-of-the-rearranged-number/",
+      "readmePath": "2165-smallest-value-of-the-rearranged-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2165-smallest-value-of-the-rearranged-number.java",
+          "path": "2165-smallest-value-of-the-rearranged-number/2165-smallest-value-of-the-rearranged-number.java",
+          "sha": "b47642afea95b22caf041673fb8717bc3a1b7db9",
+          "lastSyncedAt": "2026-09-24T06:21:55.085Z"
+        }
+      ]
+    },
     {
       "frontendId": "2807",
       "title": "Insert Greatest Common Divisors in Linked List",
