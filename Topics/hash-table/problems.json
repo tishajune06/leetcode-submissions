@@ -4,8 +4,28 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-24T06:20:58.134Z",
+  "updatedAt": "2026-09-24T06:21:41.672Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "31d81af1bb1caf50931e88d91e3b450ed5023e11",
+          "lastSyncedAt": "2026-09-24T06:21:41.672Z"
+        }
+      ]
+    },
     {
       "frontendId": "560",
       "title": "Subarray Sum Equals K",
