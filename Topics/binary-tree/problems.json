@@ -4,8 +4,28 @@
     "slug": "binary-tree",
     "name": "Binary Tree"
   },
-  "updatedAt": "2026-09-24T06:19:21.111Z",
+  "updatedAt": "2026-09-24T06:49:08.460Z",
   "problems": [
+    {
+      "frontendId": "100",
+      "title": "Same Tree",
+      "slug": "same-tree",
+      "problemName": "0100-same-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/same-tree/",
+      "folderPath": "0100-same-tree/",
+      "readmePath": "0100-same-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0100-same-tree.java",
+          "path": "0100-same-tree/0100-same-tree.java",
+          "sha": "5faab27d91cf8c4dc3270c5b5bc1b4f9c538bb60",
+          "lastSyncedAt": "2026-09-24T06:49:08.460Z"
+        }
+      ]
+    },
     {
       "frontendId": "938",
       "title": "Range Sum of BST",
