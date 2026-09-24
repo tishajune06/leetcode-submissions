@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database"
+  },
+  "updatedAt": "2026-09-24T06:20:28.671Z",
+  "problems": [
+    {
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "problemName": "0175-combine-two-tables",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
+      "folderPath": "0175-combine-two-tables/",
+      "readmePath": "0175-combine-two-tables/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0175-combine-two-tables.sql",
+          "path": "0175-combine-two-tables/0175-combine-two-tables.sql",
+          "sha": "38beac428e05c06aa4f46a480069e280c9398acc",
+          "lastSyncedAt": "2026-09-24T06:20:28.671Z"
+        }
+      ]
+    }
+  ]
+}
