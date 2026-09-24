@@ -4,7 +4,7 @@
     "slug": "linked-list",
     "name": "Linked List"
   },
-  "updatedAt": "2026-09-24T06:19:53.654Z",
+  "updatedAt": "2026-09-24T06:19:58.394Z",
   "problems": [
     {
       "frontendId": "234",
@@ -43,6 +43,26 @@
           "path": "0237-delete-node-in-a-linked-list/0237-delete-node-in-a-linked-list.java",
           "sha": "091e45c50a68167893dc13999b9684401874a0cf",
           "lastSyncedAt": "2026-09-24T06:19:53.654Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2181",
+      "title": "Merge Nodes in Between Zeros",
+      "slug": "merge-nodes-in-between-zeros",
+      "problemName": "2181-merge-nodes-in-between-zeros",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+      "folderPath": "2181-merge-nodes-in-between-zeros/",
+      "readmePath": "2181-merge-nodes-in-between-zeros/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2181-merge-nodes-in-between-zeros.java",
+          "path": "2181-merge-nodes-in-between-zeros/2181-merge-nodes-in-between-zeros.java",
+          "sha": "4615b0f86a5cd2ace868b128bf76ecbfe90199f1",
+          "lastSyncedAt": "2026-09-24T06:19:58.394Z"
         }
       ]
     }
