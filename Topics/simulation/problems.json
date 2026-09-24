@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation"
+  },
+  "updatedAt": "2026-09-24T06:19:58.394Z",
+  "problems": [
+    {
+      "frontendId": "2181",
+      "title": "Merge Nodes in Between Zeros",
+      "slug": "merge-nodes-in-between-zeros",
+      "problemName": "2181-merge-nodes-in-between-zeros",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/merge-nodes-in-between-zeros/",
+      "folderPath": "2181-merge-nodes-in-between-zeros/",
+      "readmePath": "2181-merge-nodes-in-between-zeros/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2181-merge-nodes-in-between-zeros.java",
+          "path": "2181-merge-nodes-in-between-zeros/2181-merge-nodes-in-between-zeros.java",
+          "sha": "4615b0f86a5cd2ace868b128bf76ecbfe90199f1",
+          "lastSyncedAt": "2026-09-24T06:19:58.394Z"
+        }
+      ]
+    }
+  ]
+}
