@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "string",
+    "name": "String"
+  },
+  "updatedAt": "2026-09-24T06:21:09.323Z",
+  "problems": [
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "4804f9295255fb78a15d3454ac07b5de493eb3de",
+          "lastSyncedAt": "2026-09-24T06:21:09.323Z"
+        }
+      ]
+    }
+  ]
+}
