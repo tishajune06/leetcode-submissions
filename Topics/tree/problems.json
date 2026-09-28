@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-24T06:49:08.460Z",
+  "updatedAt": "2026-09-28T13:59:16.958Z",
   "problems": [
     {
       "frontendId": "100",
@@ -43,6 +43,26 @@
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
           "sha": "f99aefe427f0adda3eefb0944808f73ca1fa7625",
           "lastSyncedAt": "2026-09-24T06:19:21.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2236",
+      "title": "Root Equals Sum of Children",
+      "slug": "root-equals-sum-of-children",
+      "problemName": "2236-root-equals-sum-of-children",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/root-equals-sum-of-children/",
+      "folderPath": "2236-root-equals-sum-of-children/",
+      "readmePath": "2236-root-equals-sum-of-children/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2236-root-equals-sum-of-children.java",
+          "path": "2236-root-equals-sum-of-children/2236-root-equals-sum-of-children.java",
+          "sha": "03c14edce8236a9558b6b9c893748b40b3a2ed02",
+          "lastSyncedAt": "2026-09-28T13:59:16.958Z"
         }
       ]
     }
