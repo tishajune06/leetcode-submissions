@@ -4,7 +4,7 @@
     "slug": "depth-first-search",
     "name": "Depth-First Search"
   },
-  "updatedAt": "2026-09-24T06:49:08.460Z",
+  "updatedAt": "2026-09-30T05:29:08.294Z",
   "problems": [
     {
       "frontendId": "100",
@@ -43,6 +43,26 @@
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
           "sha": "f99aefe427f0adda3eefb0944808f73ca1fa7625",
           "lastSyncedAt": "2026-09-24T06:19:21.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2331",
+      "title": "Evaluate Boolean Binary Tree",
+      "slug": "evaluate-boolean-binary-tree",
+      "problemName": "2331-evaluate-boolean-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-boolean-binary-tree/",
+      "folderPath": "2331-evaluate-boolean-binary-tree/",
+      "readmePath": "2331-evaluate-boolean-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2331-evaluate-boolean-binary-tree.java",
+          "path": "2331-evaluate-boolean-binary-tree/2331-evaluate-boolean-binary-tree.java",
+          "sha": "510d34be31b4b48cdaccfe51fed7f764ecaf3ef4",
+          "lastSyncedAt": "2026-09-30T05:29:08.294Z"
         }
       ]
     }
