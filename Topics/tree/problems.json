@@ -4,7 +4,7 @@
     "slug": "tree",
     "name": "Tree"
   },
-  "updatedAt": "2026-09-28T14:11:57.165Z",
+  "updatedAt": "2026-09-30T05:29:08.294Z",
   "problems": [
     {
       "frontendId": "100",
@@ -83,6 +83,26 @@
           "path": "2236-root-equals-sum-of-children/2236-root-equals-sum-of-children.java",
           "sha": "03c14edce8236a9558b6b9c893748b40b3a2ed02",
           "lastSyncedAt": "2026-09-28T13:59:16.958Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2331",
+      "title": "Evaluate Boolean Binary Tree",
+      "slug": "evaluate-boolean-binary-tree",
+      "problemName": "2331-evaluate-boolean-binary-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/evaluate-boolean-binary-tree/",
+      "folderPath": "2331-evaluate-boolean-binary-tree/",
+      "readmePath": "2331-evaluate-boolean-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2331-evaluate-boolean-binary-tree.java",
+          "path": "2331-evaluate-boolean-binary-tree/2331-evaluate-boolean-binary-tree.java",
+          "sha": "510d34be31b4b48cdaccfe51fed7f764ecaf3ef4",
+          "lastSyncedAt": "2026-09-30T05:29:08.294Z"
         }
       ]
     }
