@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 18 | 6 | 0 |
+| 25 | 19 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 18 |
+| 1 days | 2 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2025-11-27 | 1 |
 | 2026-01-13 | 1 |
 | 2026-03-18 | 1 |
 | 2026-08-11 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-28 | 2 |
+| 2026-09-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 6 | 25% |
-| Two Pointers | 6 | 25% |
-| Database | 5 | 21% |
-| Linked List | 5 | 21% |
-| Binary Tree | 4 | 17% |
-| Tree | 4 | 17% |
-| Sorting | 3 | 13% |
-| String | 3 | 13% |
+| Array | 6 | 24% |
+| Two Pointers | 6 | 24% |
+| Binary Tree | 5 | 20% |
+| Database | 5 | 20% |
+| Linked List | 5 | 20% |
+| Tree | 5 | 20% |
+| Depth-First Search | 3 | 12% |
+| Sorting | 3 | 12% |
+| String | 3 | 12% |
 | Binary Search Tree | 2 | 8% |
-| Depth-First Search | 2 | 8% |
 
 ## Topics
 
@@ -51,11 +51,11 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 6 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 2 |
-| [Binary Tree](Topics/binary-tree/) | 4 |
+| [Binary Tree](Topics/binary-tree/) | 5 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 1 |
 | [Database](Topics/database/) | 5 |
-| [Depth-First Search](Topics/depth-first-search/) | 2 |
+| [Depth-First Search](Topics/depth-first-search/) | 3 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
@@ -68,7 +68,7 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 2 |
 | [String](Topics/string/) | 4 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Tree](Topics/tree/) | 4 |
+| [Tree](Topics/tree/) | 5 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
