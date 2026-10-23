@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-23T08:42:48.237Z",
+  "updatedAt": "2026-10-23T08:58:43.368Z",
   "problems": [
     {
       "frontendId": "100",
@@ -84,6 +84,26 @@
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
           "sha": "f99aefe427f0adda3eefb0944808f73ca1fa7625",
           "lastSyncedAt": "2026-09-24T06:19:21.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1302",
+      "title": "Deepest Leaves Sum",
+      "slug": "deepest-leaves-sum",
+      "problemName": "1302-deepest-leaves-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/deepest-leaves-sum/",
+      "folderPath": "1302-deepest-leaves-sum/",
+      "readmePath": "1302-deepest-leaves-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1302-deepest-leaves-sum.java",
+          "path": "1302-deepest-leaves-sum/1302-deepest-leaves-sum.java",
+          "sha": "dd6217d52f4dc417eca999d73c0f19b5dd6338f3",
+          "lastSyncedAt": "2026-10-23T08:58:43.368Z"
         }
       ]
     },
