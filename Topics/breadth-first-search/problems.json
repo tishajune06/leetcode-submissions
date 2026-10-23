@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "breadth-first-search",
-    "name": "Breadth-First Search"
+    "name": "Breadth-First Search",
+    "tagId": "22"
   },
-  "updatedAt": "2026-10-02T08:16:14.936Z",
+  "updatedAt": "2026-10-23T08:42:48.237Z",
   "problems": [
     {
       "frontendId": "100",
@@ -43,6 +44,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.java",
           "sha": "02120bc634c8f3a7f5d55cf5e534c8329a774736",
           "lastSyncedAt": "2026-10-02T08:16:14.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2415",
+      "title": "Reverse Odd Levels of Binary Tree",
+      "slug": "reverse-odd-levels-of-binary-tree",
+      "problemName": "2415-reverse-odd-levels-of-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/",
+      "folderPath": "2415-reverse-odd-levels-of-binary-tree/",
+      "readmePath": "2415-reverse-odd-levels-of-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2415-reverse-odd-levels-of-binary-tree.java",
+          "path": "2415-reverse-odd-levels-of-binary-tree/2415-reverse-odd-levels-of-binary-tree.java",
+          "sha": "a5234252286e7154ed92cf65d43e469ceb795e81",
+          "lastSyncedAt": "2026-10-23T08:42:48.237Z"
         }
       ]
     }
