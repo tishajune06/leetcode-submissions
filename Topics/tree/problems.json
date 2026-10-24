@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-24T06:59:31.530Z",
+  "updatedAt": "2026-10-24T07:21:31.334Z",
   "problems": [
     {
       "frontendId": "100",
@@ -104,6 +104,26 @@
           "path": "1302-deepest-leaves-sum/1302-deepest-leaves-sum.java",
           "sha": "dd6217d52f4dc417eca999d73c0f19b5dd6338f3",
           "lastSyncedAt": "2026-10-23T08:58:43.368Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1315",
+      "title": "Sum of Nodes with Even-Valued Grandparent",
+      "slug": "sum-of-nodes-with-even-valued-grandparent",
+      "problemName": "1315-sum-of-nodes-with-even-valued-grandparent",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/",
+      "folderPath": "1315-sum-of-nodes-with-even-valued-grandparent/",
+      "readmePath": "1315-sum-of-nodes-with-even-valued-grandparent/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1315-sum-of-nodes-with-even-valued-grandparent.java",
+          "path": "1315-sum-of-nodes-with-even-valued-grandparent/1315-sum-of-nodes-with-even-valued-grandparent.java",
+          "sha": "7b0baf140c8835904947c777e82a24103e13264f",
+          "lastSyncedAt": "2026-10-24T07:21:31.334Z"
         }
       ]
     },
