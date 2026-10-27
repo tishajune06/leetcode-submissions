@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-24T07:21:31.334Z",
+  "updatedAt": "2026-10-27T05:40:47.037Z",
   "problems": [
     {
       "frontendId": "100",
@@ -44,6 +44,26 @@
           "path": "0101-symmetric-tree/0101-symmetric-tree.java",
           "sha": "02120bc634c8f3a7f5d55cf5e534c8329a774736",
           "lastSyncedAt": "2026-10-02T08:16:14.936Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "654",
+      "title": "Maximum Binary Tree",
+      "slug": "maximum-binary-tree",
+      "problemName": "0654-maximum-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+      "folderPath": "0654-maximum-binary-tree/",
+      "readmePath": "0654-maximum-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0654-maximum-binary-tree.java",
+          "path": "0654-maximum-binary-tree/0654-maximum-binary-tree.java",
+          "sha": "4abc28d339aa6119f91ece434a06fd16b98309a9",
+          "lastSyncedAt": "2026-10-27T05:40:47.037Z"
         }
       ]
     },
