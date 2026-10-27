@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "cartesian-tree",
+    "name": "Cartesian Tree",
+    "tagId": "95943"
+  },
+  "updatedAt": "2026-10-27T05:40:47.037Z",
+  "problems": [
+    {
+      "frontendId": "654",
+      "title": "Maximum Binary Tree",
+      "slug": "maximum-binary-tree",
+      "problemName": "0654-maximum-binary-tree",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-binary-tree/",
+      "folderPath": "0654-maximum-binary-tree/",
+      "readmePath": "0654-maximum-binary-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0654-maximum-binary-tree.java",
+          "path": "0654-maximum-binary-tree/0654-maximum-binary-tree.java",
+          "sha": "4abc28d339aa6119f91ece434a06fd16b98309a9",
+          "lastSyncedAt": "2026-10-27T05:40:47.037Z"
+        }
+      ]
+    }
+  ]
+}
