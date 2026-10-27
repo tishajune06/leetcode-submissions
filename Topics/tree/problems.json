@@ -5,7 +5,7 @@
     "name": "Tree",
     "tagId": "20"
   },
-  "updatedAt": "2026-10-27T05:40:57.412Z",
+  "updatedAt": "2026-10-27T06:02:48.926Z",
   "problems": [
     {
       "frontendId": "100",
@@ -144,6 +144,26 @@
           "path": "1315-sum-of-nodes-with-even-valued-grandparent/1315-sum-of-nodes-with-even-valued-grandparent.java",
           "sha": "7b0baf140c8835904947c777e82a24103e13264f",
           "lastSyncedAt": "2026-10-24T07:21:31.334Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1379",
+      "title": "Find a Corresponding Node of a Binary Tree in a Clone of That Tree",
+      "slug": "find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "problemName": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "folderPath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/",
+      "readmePath": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java",
+          "path": "1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree.java",
+          "sha": "821212566e308d9b1e0d5d586712d06c38566954",
+          "lastSyncedAt": "2026-10-27T06:02:48.926Z"
         }
       ]
     },
