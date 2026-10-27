@@ -5,7 +5,7 @@
     "name": "Binary Search Tree",
     "tagId": "30"
   },
-  "updatedAt": "2026-10-24T06:59:31.530Z",
+  "updatedAt": "2026-10-27T07:12:31.446Z",
   "problems": [
     {
       "frontendId": "700",
@@ -44,6 +44,26 @@
           "path": "0938-range-sum-of-bst/0938-range-sum-of-bst.java",
           "sha": "f99aefe427f0adda3eefb0944808f73ca1fa7625",
           "lastSyncedAt": "2026-09-24T06:19:21.111Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1008",
+      "title": "Construct Binary Search Tree from Preorder Traversal",
+      "slug": "construct-binary-search-tree-from-preorder-traversal",
+      "problemName": "1008-construct-binary-search-tree-from-preorder-traversal",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "folderPath": "1008-construct-binary-search-tree-from-preorder-traversal/",
+      "readmePath": "1008-construct-binary-search-tree-from-preorder-traversal/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1008-construct-binary-search-tree-from-preorder-traversal.java",
+          "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
+          "sha": "57778253fc1f276035e4bc049004fe4ed8f98a6b",
+          "lastSyncedAt": "2026-10-27T07:12:31.446Z"
         }
       ]
     },
