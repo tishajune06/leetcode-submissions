@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 22 | 12 | 0 |
+| 35 | 23 | 12 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 24 |
+| 1 days | 2 days | 25 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-24 | 2 |
 | 2026-09-02 | 3 |
 | 2026-09-11 | 1 |
 | 2026-09-14 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-24 | 2 |
 | 2026-10-27 | 3 |
 | 2026-10-28 | 1 |
+| 2026-10-30 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 14 | 41% |
-| Tree | 14 | 41% |
-| Depth-First Search | 10 | 29% |
-| Array | 8 | 24% |
-| Breadth-First Search | 6 | 18% |
-| Two Pointers | 6 | 18% |
-| Database | 5 | 15% |
-| Linked List | 5 | 15% |
-| Binary Search Tree | 4 | 12% |
-| Stack | 4 | 12% |
+| Binary Tree | 15 | 43% |
+| Tree | 15 | 43% |
+| Depth-First Search | 11 | 31% |
+| Array | 8 | 23% |
+| Breadth-First Search | 7 | 20% |
+| Two Pointers | 6 | 17% |
+| Database | 5 | 14% |
+| Linked List | 5 | 14% |
+| Binary Search Tree | 4 | 11% |
+| Stack | 4 | 11% |
 
 ## Topics
 
@@ -51,12 +51,12 @@ Contains topicwise list of solved problems.
 | --- | ---: |
 | [Array](Topics/array/) | 8 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 4 |
-| [Binary Tree](Topics/binary-tree/) | 14 |
+| [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
-| [Breadth-First Search](Topics/breadth-first-search/) | 6 |
+| [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Cartesian Tree](Topics/cartesian-tree/) | 1 |
 | [Database](Topics/database/) | 5 |
-| [Depth-First Search](Topics/depth-first-search/) | 10 |
+| [Depth-First Search](Topics/depth-first-search/) | 11 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 4 |
 | [String Matching](Topics/string-matching/) | 1 |
-| [Tree](Topics/tree/) | 15 |
+| [Tree](Topics/tree/) | 16 |
 | [Two Pointers](Topics/two-pointers/) | 7 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
