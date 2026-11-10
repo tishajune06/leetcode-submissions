@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-27T07:12:31.446Z",
+  "updatedAt": "2026-11-10T17:51:06.998Z",
   "problems": [
     {
       "frontendId": "26",
@@ -64,6 +64,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.java",
           "sha": "12c2c529cd366d8b51de35f39b4f1371c28c4696",
           "lastSyncedAt": "2026-09-24T06:21:26.623Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "300",
+      "title": "Longest Increasing Subsequence",
+      "slug": "longest-increasing-subsequence",
+      "problemName": "0300-longest-increasing-subsequence",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "folderPath": "0300-longest-increasing-subsequence/",
+      "readmePath": "0300-longest-increasing-subsequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0300-longest-increasing-subsequence.java",
+          "path": "0300-longest-increasing-subsequence/0300-longest-increasing-subsequence.java",
+          "sha": "b47756f2e19fe0cc5d076dc2b265d338c7526eb3",
+          "lastSyncedAt": "2026-11-10T17:51:06.998Z"
         }
       ]
     },
