@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 23 | 12 | 0 |
+| 36 | 23 | 13 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 25 |
+| 1 days | 2 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 3 |
 | 2026-09-11 | 1 |
 | 2026-09-14 | 2 |
 | 2026-09-17 | 1 |
@@ -29,16 +28,17 @@ Contains topicwise list of solved problems.
 | 2026-10-27 | 3 |
 | 2026-10-28 | 1 |
 | 2026-10-30 | 1 |
+| 2026-11-10 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 15 | 43% |
-| Tree | 15 | 43% |
+| Binary Tree | 15 | 42% |
+| Tree | 15 | 42% |
 | Depth-First Search | 11 | 31% |
-| Array | 8 | 23% |
-| Breadth-First Search | 7 | 20% |
+| Array | 9 | 25% |
+| Breadth-First Search | 7 | 19% |
 | Two Pointers | 6 | 17% |
 | Database | 5 | 14% |
 | Linked List | 5 | 14% |
@@ -49,7 +49,8 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 8 |
+| [Array](Topics/array/) | 9 |
+| [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 15 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
@@ -58,10 +59,12 @@ Contains topicwise list of solved problems.
 | [Database](Topics/database/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 11 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
 | [Hash Table](Topics/hash-table/) | 2 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
+| [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Math](Topics/math/) | 2 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
