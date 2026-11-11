@@ -2,10 +2,31 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-09-24T06:22:08.486Z",
+  "updatedAt": "2026-11-11T19:31:29.506Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "0005-longest-palindromic-substring/",
+      "readmePath": "0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0005-longest-palindromic-substring.java",
+          "path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.java",
+          "sha": "5dad5f5d6c1dd570d77a6a09768934429a92c029",
+          "lastSyncedAt": "2026-11-11T19:31:29.506Z"
+        }
+      ]
+    },
     {
       "frontendId": "20",
       "title": "Valid Parentheses",
