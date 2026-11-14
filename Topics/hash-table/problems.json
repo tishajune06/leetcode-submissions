@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "hash-table",
-    "name": "Hash Table"
+    "name": "Hash Table",
+    "tagId": "6"
   },
-  "updatedAt": "2026-09-24T06:21:41.672Z",
+  "updatedAt": "2026-11-14T05:05:07.536Z",
   "problems": [
     {
       "frontendId": "242",
@@ -43,6 +44,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "acf0c237cfd3d05df8192b9fbaf541109b755890",
           "lastSyncedAt": "2026-09-24T06:20:58.134Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3005",
+      "title": "Count Elements With Maximum Frequency",
+      "slug": "count-elements-with-maximum-frequency",
+      "problemName": "3005-count-elements-with-maximum-frequency",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-elements-with-maximum-frequency/",
+      "folderPath": "3005-count-elements-with-maximum-frequency/",
+      "readmePath": "3005-count-elements-with-maximum-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3005-count-elements-with-maximum-frequency.java",
+          "path": "3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.java",
+          "sha": "859d6c31a13667a1fb64e8c124f339a69436b039",
+          "lastSyncedAt": "2026-11-14T05:05:07.536Z"
         }
       ]
     }
