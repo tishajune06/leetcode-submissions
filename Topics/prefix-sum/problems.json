@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "prefix-sum",
-    "name": "Prefix Sum"
+    "name": "Prefix Sum",
+    "tagId": "61068"
   },
-  "updatedAt": "2026-09-24T06:20:58.134Z",
+  "updatedAt": "2026-11-14T09:27:33.424Z",
   "problems": [
     {
       "frontendId": "560",
@@ -22,7 +23,7 @@
           "filename": "0560-subarray-sum-equals-k.java",
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "acf0c237cfd3d05df8192b9fbaf541109b755890",
-          "lastSyncedAt": "2026-09-24T06:20:58.134Z"
+          "lastSyncedAt": "2026-11-14T09:27:33.424Z"
         }
       ]
     }
