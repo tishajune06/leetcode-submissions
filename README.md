@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 24 | 14 | 0 |
+| 39 | 24 | 15 | 0 |
 
 ## Activity
 
@@ -28,22 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-30 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-12 | 1 |
-| 2026-11-14 | 1 |
+| 2026-11-14 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 15 | 39% |
-| Tree | 15 | 39% |
-| Depth-First Search | 11 | 29% |
+| Binary Tree | 15 | 38% |
+| Tree | 15 | 38% |
+| Depth-First Search | 11 | 28% |
 | Array | 10 | 26% |
 | Breadth-First Search | 7 | 18% |
 | Two Pointers | 7 | 18% |
 | Database | 5 | 13% |
 | Linked List | 5 | 13% |
-| Binary Search Tree | 4 | 11% |
-| Stack | 4 | 11% |
+| String | 5 | 13% |
+| Binary Search Tree | 4 | 10% |
 
 ## Topics
 
@@ -62,7 +62,7 @@ Contains topicwise list of solved problems.
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 4 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
@@ -73,9 +73,10 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 5 |
+| [String](Topics/string/) | 6 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 16 |
 | [Two Pointers](Topics/two-pointers/) | 8 |
