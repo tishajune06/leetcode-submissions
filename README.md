@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 24 | 15 | 0 |
+| 40 | 25 | 15 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 28 |
+| 1 days | 2 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-17 | 1 |
 | 2026-09-23 | 1 |
 | 2026-09-24 | 1 |
 | 2026-09-28 | 2 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-14 | 2 |
+| 2026-11-16 | 1 |
 
 ## Top Tags
 
@@ -37,13 +37,13 @@ Contains topicwise list of solved problems.
 | Binary Tree | 15 | 38% |
 | Tree | 15 | 38% |
 | Depth-First Search | 11 | 28% |
-| Array | 10 | 26% |
+| Array | 10 | 25% |
+| Two Pointers | 8 | 20% |
 | Breadth-First Search | 7 | 18% |
-| Two Pointers | 7 | 18% |
 | Database | 5 | 13% |
+| Hash Table | 5 | 13% |
 | Linked List | 5 | 13% |
 | String | 5 | 13% |
-| Binary Search Tree | 4 | 10% |
 
 ## Topics
 
@@ -61,13 +61,14 @@ Contains topicwise list of solved problems.
 | [Depth-First Search](Topics/depth-first-search/) | 11 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 4 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 2 |
+| [Math](Topics/math/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 1 |
@@ -79,6 +80,6 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 6 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 16 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
