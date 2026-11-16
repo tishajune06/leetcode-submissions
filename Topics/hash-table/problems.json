@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-16T16:48:39.418Z",
+  "updatedAt": "2026-11-16T17:06:12.411Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "31d81af1bb1caf50931e88d91e3b450ed5023e11",
           "lastSyncedAt": "2026-11-16T16:48:39.418Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "383",
+      "title": "Ransom Note",
+      "slug": "ransom-note",
+      "problemName": "0383-ransom-note",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/ransom-note/",
+      "folderPath": "0383-ransom-note/",
+      "readmePath": "0383-ransom-note/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0383-ransom-note.java",
+          "path": "0383-ransom-note/0383-ransom-note.java",
+          "sha": "0f8c197032fd1857e0d6295c2ca9e59d10314e90",
+          "lastSyncedAt": "2026-11-16T17:06:12.411Z"
         }
       ]
     },
