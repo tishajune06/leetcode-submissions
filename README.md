@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 41 | 26 | 15 | 0 |
+| 42 | 27 | 15 | 0 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-12 | 1 |
 | 2026-11-14 | 2 |
-| 2026-11-16 | 2 |
+| 2026-11-16 | 3 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 15 | 37% |
-| Tree | 15 | 37% |
-| Depth-First Search | 11 | 27% |
+| Binary Tree | 15 | 36% |
+| Tree | 15 | 36% |
+| Depth-First Search | 11 | 26% |
 | Array | 10 | 24% |
-| Two Pointers | 8 | 20% |
+| Two Pointers | 8 | 19% |
 | Breadth-First Search | 7 | 17% |
-| Hash Table | 6 | 15% |
-| String | 6 | 15% |
+| String | 7 | 17% |
+| Hash Table | 6 | 14% |
 | Database | 5 | 12% |
 | Linked List | 5 | 12% |
 
@@ -56,7 +56,7 @@ Contains topicwise list of solved problems.
 | [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Breadth-First Search](Topics/breadth-first-search/) | 7 |
 | [Cartesian Tree](Topics/cartesian-tree/) | 1 |
-| [Counting](Topics/counting/) | 2 |
+| [Counting](Topics/counting/) | 3 |
 | [Database](Topics/database/) | 5 |
 | [Depth-First Search](Topics/depth-first-search/) | 11 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
@@ -77,7 +77,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 7 |
+| [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 16 |
 | [Two Pointers](Topics/two-pointers/) | 9 |
