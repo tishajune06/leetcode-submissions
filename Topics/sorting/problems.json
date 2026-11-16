@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "sorting",
-    "name": "Sorting"
+    "name": "Sorting",
+    "tagId": "61049"
   },
-  "updatedAt": "2026-09-24T06:21:55.085Z",
+  "updatedAt": "2026-11-16T16:48:39.418Z",
   "problems": [
     {
       "frontendId": "88",
@@ -42,7 +43,7 @@
           "filename": "0242-valid-anagram.java",
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "31d81af1bb1caf50931e88d91e3b450ed5023e11",
-          "lastSyncedAt": "2026-09-24T06:21:41.672Z"
+          "lastSyncedAt": "2026-11-16T16:48:39.418Z"
         }
       ]
     },
