@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 28 | 15 | 0 |
+| 44 | 28 | 16 | 0 |
 
 ## Activity
 
@@ -28,28 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-12 | 1 |
 | 2026-11-14 | 2 |
 | 2026-11-16 | 3 |
-| 2026-11-17 | 1 |
+| 2026-11-17 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 15 | 35% |
-| Tree | 15 | 35% |
-| Array | 11 | 26% |
-| Depth-First Search | 11 | 26% |
-| Two Pointers | 8 | 19% |
+| Binary Tree | 15 | 34% |
+| Tree | 15 | 34% |
+| Array | 12 | 27% |
+| Depth-First Search | 11 | 25% |
+| Two Pointers | 8 | 18% |
 | Breadth-First Search | 7 | 16% |
 | Hash Table | 7 | 16% |
 | String | 7 | 16% |
-| Database | 5 | 12% |
-| Linked List | 5 | 12% |
+| Database | 5 | 11% |
+| Linked List | 5 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 11 |
+| [Array](Topics/array/) | 12 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 15 |
@@ -72,7 +72,7 @@ Contains topicwise list of solved problems.
 | [Math](Topics/math/) | 3 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 1 |
