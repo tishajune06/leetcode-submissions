@@ -5,8 +5,28 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T11:14:55.213Z",
+  "updatedAt": "2026-11-17T17:37:23.156Z",
   "problems": [
+    {
+      "frontendId": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "problemName": "0014-longest-common-prefix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-common-prefix/",
+      "folderPath": "0014-longest-common-prefix/",
+      "readmePath": "0014-longest-common-prefix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0014-longest-common-prefix.java",
+          "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
+          "sha": "778c34b4346d8529e1f25f6eac8391321253c960",
+          "lastSyncedAt": "2026-11-17T17:37:23.156Z"
+        }
+      ]
+    },
     {
       "frontendId": "26",
       "title": "Remove Duplicates from Sorted Array",
