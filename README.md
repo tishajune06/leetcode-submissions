@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 29 | 16 | 0 |
+| 46 | 30 | 16 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 30 |
+| 1 days | 2 days | 31 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-24 | 1 |
 | 2026-09-28 | 2 |
 | 2026-09-30 | 1 |
 | 2026-10-02 | 1 |
@@ -29,6 +28,7 @@ Contains topicwise list of solved problems.
 | 2026-11-14 | 2 |
 | 2026-11-16 | 3 |
 | 2026-11-17 | 3 |
+| 2026-11-20 | 1 |
 
 ## Top Tags
 
@@ -36,12 +36,12 @@ Contains topicwise list of solved problems.
 | --- | ---: | ---: |
 | Binary Tree | 15 | 33% |
 | Tree | 15 | 33% |
-| Array | 13 | 29% |
+| Array | 13 | 28% |
 | Depth-First Search | 11 | 24% |
-| String | 8 | 18% |
-| Two Pointers | 8 | 18% |
-| Breadth-First Search | 7 | 16% |
-| Hash Table | 7 | 16% |
+| String | 8 | 17% |
+| Two Pointers | 8 | 17% |
+| Breadth-First Search | 7 | 15% |
+| Hash Table | 7 | 15% |
 | Database | 5 | 11% |
 | Linked List | 5 | 11% |
 
@@ -69,7 +69,7 @@ Contains topicwise list of solved problems.
 | [Linked List](Topics/linked-list/) | 5 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 3 |
+| [Math](Topics/math/) | 4 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 2 |
 | [Number Theory](Topics/number-theory/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
