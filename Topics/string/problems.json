@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T17:37:23.156Z",
+  "updatedAt": "2026-11-22T08:08:35.984Z",
   "problems": [
     {
       "frontendId": "3",
@@ -184,6 +184,26 @@
           "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.java",
           "sha": "a714607c5bbd7af0cbbe5ea84652a248c6357ca7",
           "lastSyncedAt": "2026-11-16T17:15:56.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "3838",
+      "title": "Weighted Word Mapping",
+      "slug": "weighted-word-mapping",
+      "problemName": "3838-weighted-word-mapping",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/weighted-word-mapping/",
+      "folderPath": "3838-weighted-word-mapping/",
+      "readmePath": "3838-weighted-word-mapping/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "3838-weighted-word-mapping.java",
+          "path": "3838-weighted-word-mapping/3838-weighted-word-mapping.java",
+          "sha": "7cc05f7b5bdb7c48afaa7e177585a005c09c3e8d",
+          "lastSyncedAt": "2026-11-22T08:08:35.984Z"
         }
       ]
     }
