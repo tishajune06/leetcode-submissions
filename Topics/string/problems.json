@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-22T08:08:35.984Z",
+  "updatedAt": "2026-11-23T10:38:57.587Z",
   "problems": [
     {
       "frontendId": "3",
@@ -184,6 +184,26 @@
           "path": "1704-determine-if-string-halves-are-alike/1704-determine-if-string-halves-are-alike.java",
           "sha": "a714607c5bbd7af0cbbe5ea84652a248c6357ca7",
           "lastSyncedAt": "2026-11-16T17:15:56.823Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2325",
+      "title": "Decode the Message",
+      "slug": "decode-the-message",
+      "problemName": "2325-decode-the-message",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-the-message/",
+      "folderPath": "2325-decode-the-message/",
+      "readmePath": "2325-decode-the-message/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2325-decode-the-message.java",
+          "path": "2325-decode-the-message/2325-decode-the-message.java",
+          "sha": "692d1c0039feadb99884d1e6da5aa2e471625376",
+          "lastSyncedAt": "2026-11-23T10:38:57.587Z"
         }
       ]
     },
