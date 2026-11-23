@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T10:31:21.878Z",
+  "updatedAt": "2026-11-23T10:38:57.587Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "acf0c237cfd3d05df8192b9fbaf541109b755890",
           "lastSyncedAt": "2026-11-14T09:28:43.752Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2325",
+      "title": "Decode the Message",
+      "slug": "decode-the-message",
+      "problemName": "2325-decode-the-message",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/decode-the-message/",
+      "folderPath": "2325-decode-the-message/",
+      "readmePath": "2325-decode-the-message/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2325-decode-the-message.java",
+          "path": "2325-decode-the-message/2325-decode-the-message.java",
+          "sha": "692d1c0039feadb99884d1e6da5aa2e471625376",
+          "lastSyncedAt": "2026-11-23T10:38:57.587Z"
         }
       ]
     },
