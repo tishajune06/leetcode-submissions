@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-22T08:08:35.984Z",
+  "updatedAt": "2026-11-24T10:31:52.340Z",
   "problems": [
     {
       "frontendId": "14",
@@ -224,6 +224,26 @@
           "path": "1008-construct-binary-search-tree-from-preorder-traversal/1008-construct-binary-search-tree-from-preorder-traversal.java",
           "sha": "57778253fc1f276035e4bc049004fe4ed8f98a6b",
           "lastSyncedAt": "2026-10-27T07:12:31.446Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2678",
+      "title": "Number of Senior Citizens",
+      "slug": "number-of-senior-citizens",
+      "problemName": "2678-number-of-senior-citizens",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-senior-citizens/",
+      "folderPath": "2678-number-of-senior-citizens/",
+      "readmePath": "2678-number-of-senior-citizens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2678-number-of-senior-citizens.java",
+          "path": "2678-number-of-senior-citizens/2678-number-of-senior-citizens.java",
+          "sha": "45acbc28d8d61329e392f301c6b89aa702b3c488",
+          "lastSyncedAt": "2026-11-24T10:31:52.340Z"
         }
       ]
     },
