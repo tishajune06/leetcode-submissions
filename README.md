@@ -5,18 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 47 | 31 | 16 | 0 |
+| 49 | 33 | 16 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 2 days | 32 |
+| 3 days | 3 days | 34 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-30 | 1 |
-| 2026-10-02 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 2 |
 | 2026-10-27 | 3 |
@@ -29,27 +27,29 @@ Contains topicwise list of solved problems.
 | 2026-11-17 | 3 |
 | 2026-11-20 | 1 |
 | 2026-11-22 | 1 |
+| 2026-11-23 | 1 |
+| 2026-11-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Binary Tree | 15 | 32% |
-| Tree | 15 | 32% |
-| Array | 14 | 30% |
-| Depth-First Search | 11 | 23% |
-| String | 9 | 19% |
-| Two Pointers | 8 | 17% |
-| Breadth-First Search | 7 | 15% |
-| Hash Table | 7 | 15% |
-| Database | 5 | 11% |
-| Linked List | 5 | 11% |
+| Array | 15 | 31% |
+| Binary Tree | 15 | 31% |
+| Tree | 15 | 31% |
+| Depth-First Search | 11 | 22% |
+| String | 11 | 22% |
+| Hash Table | 8 | 16% |
+| Two Pointers | 8 | 16% |
+| Breadth-First Search | 7 | 14% |
+| Database | 5 | 10% |
+| Linked List | 5 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Binary Search](Topics/binary-search/) | 1 |
 | [Binary Search Tree](Topics/binary-search-tree/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 15 |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 1 |
 | [Greedy](Topics/greedy/) | 1 |
-| [Hash Table](Topics/hash-table/) | 7 |
+| [Hash Table](Topics/hash-table/) | 8 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 5 |
 | [Longest Increasing Subsequence](Topics/longest-increasing-subsequence/) | 1 |
@@ -78,7 +78,7 @@ Contains topicwise list of solved problems.
 | [Sliding Window](Topics/sliding-window/) | 1 |
 | [Sorting](Topics/sorting/) | 4 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 10 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Tree](Topics/tree/) | 16 |
 | [Trie](Topics/trie/) | 1 |
