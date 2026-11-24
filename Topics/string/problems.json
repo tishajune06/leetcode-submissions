@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T10:44:49.544Z",
+  "updatedAt": "2026-11-24T10:31:52.340Z",
   "problems": [
     {
       "frontendId": "3",
@@ -204,6 +204,26 @@
           "path": "2325-decode-the-message/2325-decode-the-message.java",
           "sha": "692d1c0039feadb99884d1e6da5aa2e471625376",
           "lastSyncedAt": "2026-11-23T10:44:49.544Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2678",
+      "title": "Number of Senior Citizens",
+      "slug": "number-of-senior-citizens",
+      "problemName": "2678-number-of-senior-citizens",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-senior-citizens/",
+      "folderPath": "2678-number-of-senior-citizens/",
+      "readmePath": "2678-number-of-senior-citizens/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2678-number-of-senior-citizens.java",
+          "path": "2678-number-of-senior-citizens/2678-number-of-senior-citizens.java",
+          "sha": "45acbc28d8d61329e392f301c6b89aa702b3c488",
+          "lastSyncedAt": "2026-11-24T10:31:52.340Z"
         }
       ]
     },
